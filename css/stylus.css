@@ -1,0 +1,26 @@
+.navbar{
+  background-color: #000000 !important;
+  color: white !important;
+}
+li:hover{
+  background-color: #6DE7FD !important;
+}
+.active{
+  background-color: #6DE7FD !important;
+  color:black !important;
+}
+#defbody{
+  background-color: #E2F365 !important;
+}
+.xactive{
+  background-color: #006600;
+}
+.xverse .navbar-nav > li > a:hover,
+.xverse .navbar-nav > li > a:focus {
+  color: #fff;
+  background-color: 006600 !important;
+}
+.xverse {
+  background-color: #fff;
+  border-color: #080808;
+}
